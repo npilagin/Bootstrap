@@ -84,5 +84,4 @@ The following example creates a responsive video by adding an .embed-responsive-
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="video link"></iframe>
 </div>
-Try it Yourself »
-
+===========================================================================================
