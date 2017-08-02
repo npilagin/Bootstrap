@@ -1,0 +1,57 @@
+<!-- BUTTON COLORS & TYPES
+The button classes can be used on an <a>, <button>, or <input> element:
+-->
+
+<!-- COLORS -->
+
+<button type="button" class="btn">GRAY</button>
+<button type="button" class="btn btn-default">WHITE (gray border)</button>
+<button type="button" class="btn btn-primary">BLUE</button>
+<button type="button" class="btn btn-success">GREEN</button>
+<button type="button" class="btn btn-info">LIGHT BLUE</button>
+<button type="button" class="btn btn-warning">ORANGE</button>
+<button type="button" class="btn btn-danger">RED</button>
+<button type="button" class="btn btn-link">LINK STYLE (no border)</button>
+
+<!-- TYPES -->
+
+<!-- LINK BUTTON -->
+<a href="LINK" class="btn btn-info" role="button">Link Button</a>
+
+<!-- BUTTON -->
+<button type="button" class="btn btn-info">Button</button>
+
+<!-- INPUT BUTTON -->
+<input type="button" class="btn btn-info" value="Input Button">
+
+<!-- SUBMIT BUTTON -->
+<input type="submit" class="btn btn-info" value="Submit Button">
+======================================================================================
+
+<!-- BUTTON SIZES -->
+
+<button type="button" class="btn btn-primary btn-lg">Large</button>
+
+<button type="button" class="btn btn-primary btn-md">Medium</button>
+
+<button type="button" class="btn btn-primary btn-sm">Small</button>
+
+<button type="button" class="btn btn-primary btn-xs">XSmall</button>
+=====================================================================================
+
+<!-- BLOCK LEVEL BUTTONS 
+A block level button spans the entire width of the parent element.
+-->
+
+<button type="button" class="btn btn-primary btn-block">Button 1</button>
+=====================================================================================
+
+<!-- DISABLE A BUTTON
+The class .active makes a button appear pressed, and the class .disabled makes a button unclickable:
+-->
+
+<button type="button" class="btn btn-primary active">Active Primary</button>
+
+<button type="button" class="btn btn-primary disabled">Disabled Primary</button>
+
+
