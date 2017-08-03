@@ -1,1 +1,53 @@
+<!-- NUMBER BADGES 
+Use the .badge class within <span> elements to create badges:
+-->
+
+<a href="LINK">News <span class="badge">5</span></a><br>
+<a href="LINK">Comments <span class="badge">10</span></a><br>
+<a href="LINK">Updates <span class="badge">2</span></a>
+=============================================================================
+
+<!-- BADGES INSIDE BUTTONS -->
+
+<button type="button" class="btn btn-primary">Primary <span class="badge">7</span></button>
+==============================================================================================
+
+<!-- LABELS
+Labels are used to provide additional information about something:
+Use the .label class,  followed by one of the six contextual classes .label-default, 
+.label-primary, .label-success, .label-info, .label-warning or 
+.label-danger, within a <span> element to create a label:
+-->
+
+<h1>Example <span class="label label-default">New</span></h1>
+<h2>Example <span class="label label-default">New</span></h2>
+<h3>Example <span class="label label-default">New</span></h3>
+<h4>Example <span class="label label-default">New</span></h4>
+<h5>Example <span class="label label-default">New</span></h5>
+<h6>Example <span class="label label-default">New</span></h6>
+==============================================================================================
+
+<!-- COLORED LABELS -->
+
+<span class="label label-default">Default Label</span>
+<span class="label label-primary">Primary Label</span>
+<span class="label label-success">Success Label</span>
+<span class="label label-info">Info Label</span>
+<span class="label label-warning">Warning Label</span>
+<span class="label label-danger">Danger Label</span>
+==============================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
