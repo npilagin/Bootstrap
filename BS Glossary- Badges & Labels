@@ -1,6 +1,5 @@
 <!-- NUMBER BADGES 
-Use the .badge class within <span> elements to create badges:
--->
+Use the .badge class within <span> elements to create badges: -->
 
 <a href="LINK">News <span class="badge">5</span></a><br>
 <a href="LINK">Comments <span class="badge">10</span></a><br>
@@ -16,8 +15,7 @@ Use the .badge class within <span> elements to create badges:
 Labels are used to provide additional information about something:
 Use the .label class,  followed by one of the six contextual classes .label-default, 
 .label-primary, .label-success, .label-info, .label-warning or 
-.label-danger, within a <span> element to create a label:
--->
+.label-danger, within a <span> element to create a label: -->
 
 <h1>Example <span class="label label-default">New</span></h1>
 <h2>Example <span class="label label-default">New</span></h2>
